@@ -1,9 +1,9 @@
 // import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
-  const name = 'shahab'
-  let age = 18
+  const name = "shahab";
+  let age = 18;
   return (
     <div className="App">
       Hello {name}
